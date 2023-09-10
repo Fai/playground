@@ -10,11 +10,16 @@
  * @return {ListNode}
  */
 const middleNode = function(head) {
-    let last = head;
-    let middle = head;
-    while(last && last.next){
-        last = last.next.next;
-        middle = middle.next
+    let current=head ;
+    let position=0;
+    while(current){
+        position++ ;
+        current = current.next ;
     }
-    return middle;
+    position = Math.floor(position/2); 
+    current = head ;
+    for(let i=0;i<position;i++){
+        current = current.next;
+ }
+ return current;  
 };
