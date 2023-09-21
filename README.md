@@ -1,1 +1,1 @@
-# javascript-practice
+# My programming practice from coding challenges
