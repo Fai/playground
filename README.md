@@ -1,1 +1,1 @@
-# leetCode
+# javascript-practice

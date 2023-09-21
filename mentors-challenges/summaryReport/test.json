@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "department": "Sales",
+    "salary": 50000,
+    "performance_rating": 4.5
+  },
+  {
+    "name": "Jane Smith",
+    "age": 28,
+    "department": "Marketing",
+    "salary": 48000,
+    "performance_rating": 3.7
+  },
+  {
+    "name": "Alice Lee",
+    "age": 35,
+    "department": "Sales",
+    "salary": 52000,
+    "performance_rating": 4.0
+  },
+  {
+    "name": "Bob Gray",
+    "age": 40,
+    "department": "HR",
+    "salary": 55000,
+    "performance_rating": 4.9
+  }
+]
