@@ -6,7 +6,7 @@
  * @param {number} t
  * @return {Function}
  * Constraints:
- * fn is a functio
+ * fn is a function
  * args is a valid JSON array
  * 1 <= args.length <= 10
  * 30 <= t <= 100
