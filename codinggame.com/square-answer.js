@@ -9,7 +9,6 @@
  * 45678
  * 56789
  **/
-
 const input = readline();
 
 // Write an answer using console.log()
