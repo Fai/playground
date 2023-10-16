@@ -18,7 +18,6 @@ function solution(A) {
             if(num === 0) return -1;
             if(num > 0) multiply +=1;
         }
-        
     }
     return multiply;
 }
