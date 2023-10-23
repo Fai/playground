@@ -35,3 +35,8 @@ console.log(output);
  * [ '1OT', '65535OT' ]
  * [ '123OU' ]
  */
+
+/**
+ * Improvement
+ * - can use regex 'OT' to check and count the string match
+ */
