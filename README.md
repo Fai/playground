@@ -1,5 +1,6 @@
-# My programming practice from coding challenges as well as assignments from my instructors and mentors.
+# Playground
 
+My programming practice from coding challenges as well as assignments from my instructors and mentors.
 The coding questions come froms popular coding challenges sites
 - Codecademy Challenges
 - Coding Game
@@ -7,6 +8,5 @@ The coding questions come froms popular coding challenges sites
 - HackerEarth
 - HackerRank
 - Leetcode
-and more 
-
+- and more
 Feel free to feedback or query about my code.
